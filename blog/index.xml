@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on I&#39;m Rahul Prabhu</title>
+    <link>http://grokwithrahul.com/blog/</link>
+    <description>Recent content in Blog on I&#39;m Rahul Prabhu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 23 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://grokwithrahul.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Create personalized Christmas Cards — with four lines of code!</title>
+      <link>http://grokwithrahul.com/blog/cardmaker/</link>
+      <pubDate>Wed, 23 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://grokwithrahul.com/blog/cardmaker/</guid>
+      <description>Automated Card generation with the package cardmaker in Python
+Forgot to send out Christmas cards? Worried that you won&amp;rsquo;t be able to send your New Year’s greetings? Scared that you’ve run out of time to make personalized ones? Don’t worry! The Python package cardmaker allows you to automate the creation of Christmas cards, with only four lines of code! In this article, we will create a simple program to generate personalized Christmas cards.</description>
+    </item>
+    
+  </channel>
+</rss>

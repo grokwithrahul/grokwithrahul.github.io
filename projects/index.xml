@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on I&#39;m Rahul Prabhu</title>
+    <link>http://grokwithrahul.com/projects/</link>
+    <description>Recent content in Projects on I&#39;m Rahul Prabhu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://grokwithrahul.com/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Buyable.sell</title>
+      <link>http://grokwithrahul.com/projects/buyable.sell/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://grokwithrahul.com/projects/buyable.sell/</guid>
+      <description>An ECommerce website created using Flask and MongoDB. Handles all sorts of errors, and has both buyer and seller functionality.
+https://github.com/grokwithrahul/Buyable.sell</description>
+    </item>
+    
+    <item>
+      <title>Sketchify</title>
+      <link>http://grokwithrahul.com/projects/sketchify/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://grokwithrahul.com/projects/sketchify/</guid>
+      <description>Python Package to convert images to realistic sketches and drawings https://github.com/grokwithrahul/sketchify</description>
+    </item>
+    
+    <item>
+      <title>Plumbum</title>
+      <link>http://grokwithrahul.com/projects/plumbum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://grokwithrahul.com/projects/plumbum/</guid>
+      <description>All-in-one discord utility bot! Mute, kick, warn - the features are endless. Created using the discord.py wrapper, and hosted using heroku.
+https://github.com/grokwithrahul/Plumbum-bot</description>
+    </item>
+    
+    <item>
+      <title>Cardmaker</title>
+      <link>http://grokwithrahul.com/projects/cardmaker/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://grokwithrahul.com/projects/cardmaker/</guid>
+      <description>Automate the creation of personalized cards with only a few lines in python! Customize many parameters, including background, font, colors, and more.
+https://github.com/grokwithrahul/cardmaker</description>
+    </item>
+    
+  </channel>
+</rss>
